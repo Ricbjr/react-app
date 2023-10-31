@@ -1,0 +1,19 @@
+.signup-form {
+    display:block;
+    gap: 20px;
+    justify-content: center;
+    margin: 80px 250px;
+    background: #f7f7f7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    flex: 1;
+    padding: 36px 64px;
+}
+.signup-form h2 {
+    font-weight: 500;
+    font-size: 24px;
+}
+.signup-form h3 {
+    font-weight: 400;
+    font-size: 32px;
+}

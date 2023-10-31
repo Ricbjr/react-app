@@ -1,0 +1,41 @@
+.usuario-conectado {
+    position: relative;
+    width: 280px;
+}
+
+.usuario-conectado .topo {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.usuario-conectado .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+
+.usuario-conectado h2 {
+    color: #152788;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.usuario-conectado button{
+    background: #6278f757;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 32px;
+    color: #FFF;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+}
+
+.usuario-conectado button:hover{
+    color: #95ffd883;
+}
